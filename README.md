@@ -4,9 +4,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 # Screenshots
 Desktop Version 
-https://raw.githubusercontent.com/Dhruvcdm/3-column-preview-card-component/main/images/desktop-design.jpg
+/images/desktop-design.jpg
 Mobile Version 
-https://raw.githubusercontent.com/Dhruvcdm/3-column-preview-card-component/main/images/mobile-design.jpg
+/images/mobile-design.jpg
 
 ## Author
 
